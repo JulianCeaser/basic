@@ -9,7 +9,6 @@ set expandtab                           "tabs are spaces
 " UI Coding {{
 set number                              "show line number
 set showcmd                             "show command in bottom bar
-set cursorline                          "highlights current line
 filetype indent on                      "load filetype-specific indent files
 set wildmenu                            "visual autocomplete for command menu
 set lazyredraw                          "redraw only when we need to
