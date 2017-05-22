@@ -1,3 +1,4 @@
+" Place in ~/.vimrc
 " Colors {{
 syntax enable                           "enable syntax processing
 "   }}
