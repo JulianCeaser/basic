@@ -2,6 +2,7 @@
 " Colors {{
 syntax enable                                           "enable syntax processing
 hi MatchParen cterm=bold ctermbg=red ctermfg=white      "Change matching bracket highlighting colors
+set background=dark
 "   }}
 " Spaces and Tabs {{
 set tabstop=4                                           "number of visual spaces per TAB
